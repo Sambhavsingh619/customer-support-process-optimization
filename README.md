@@ -48,3 +48,7 @@ Customer support operations often face challenges such as inconsistent response 
 
 - Implement a structured first-response approach where agents acknowledge all incoming tickets quickly to reduce First Response Time (FRT), followed by resolving tickets based on priority  
 - Introduce performance monitoring and incentive-based mechanisms to improve agent efficiency and reduce overall resolution time  
+
+## 📁 Project Files
+
+- customer_support_data.xlsx – Dataset used for analysis and KPI calculation  
